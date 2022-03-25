@@ -1,0 +1,9 @@
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\bin\Release\netstandard2.0\Lab3.Servises.deps.json
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\bin\Release\netstandard2.0\Lab3.Servises.dll
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\bin\Release\netstandard2.0\Lab3.Servises.pdb
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\obj\Release\netstandard2.0\Lab3.Servises.AssemblyInfoInputs.cache
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\obj\Release\netstandard2.0\Lab3.Servises.AssemblyInfo.cs
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\obj\Release\netstandard2.0\Lab3.Servises.csproj.CoreCompileInputs.cache
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\obj\Release\netstandard2.0\Lab3.Servises.dll
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\obj\Release\netstandard2.0\Lab3.Servises.pdb
+C:\Users\sin2x\Desktop\Lab3-develop\Lab3.Servises\obj\Release\netstandard2.0\Lab3.Servises.csproj.AssemblyReference.cache
